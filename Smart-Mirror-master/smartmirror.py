@@ -1,4 +1,4 @@
-# smartmirror.py
+# smartmonitoringsystem.py
 # requirements
 # requests, feedparser, traceback, Pillow
 
